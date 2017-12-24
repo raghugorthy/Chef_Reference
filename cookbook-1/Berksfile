@@ -1,0 +1,7 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+##SOURCE : LOCAL COOKBOOKS##
+cookbook 'postgresql', path: '/root/chef-repo/cookbooks/postgresql'
+cookbook 'apache', path: '/root/chef-repo/cookbooks/apache'
