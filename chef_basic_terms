@@ -1,0 +1,15 @@
+Berkshelf         : A dependency manager for cookbooks.
+Chef              : A workflow tool for Chef.
+chef-client       : The agent that runs Chef.
+chef-vault        : Use to encrypt data bag items using the public keys of a list of nodes. This allows only those nodes to decrypt the encrypted values.
+ChefSpec          : A unit testing framework that tests resources locally.
+Cookstyle         : A Rubocop-based style-checking tool for writing clean cookbooks.
+Delivery CLI      : A command-line tool for continuous delivery workflow. Is used to setup and execute phase jobs on an Chef Automate server.
+Fauxhai           : A gem for mocking Ohai data in ChefSpec tests.
+Foodcritic        : A lint tool for static analysis of recipe code.
+Test Kitchen      : An integration testing framework tool that tests cookbooks across platforms.
+kitchen-dokken    : A test-kitchen plugin that provides a driver, transport, and provisioner for rapid cookbook testing and container development using Docker and Chef.
+kitchen-vagrant   : A Kitchen driver for Vagrant.
+knife-spork       : A workflow plugin for knife that helps groups of people work together in the same chef-repo and Chef server.
+Ruby              : The reference language for Chef.
+
